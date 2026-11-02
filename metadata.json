@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream",
+  "description": "Unified streaming dashboard that links accounts across Netflix, Prime Video, Hulu, Shudder, Crunchyroll, Tubi, YouTube, and Freevee. Includes AI recommendations, custom TV channels, TV Guide curation, and personalized watch schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
